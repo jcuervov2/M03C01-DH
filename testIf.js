@@ -9,3 +9,4 @@ function testNum(a) {
   }
   
 console.log(testNum(-5));
+let tesNum = testNum

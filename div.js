@@ -4,4 +4,5 @@ function div ( a, b ){
     return a / b;
 }
 
-console.log( div( 5,5 ))
+console.log( div( 5,5 ));
+let div = div
